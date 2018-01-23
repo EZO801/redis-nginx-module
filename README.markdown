@@ -6,6 +6,7 @@ Name
 *This module is not distributed with the Nginx source.* See [the installation instructions](#installation).
 
 [![Build Status](https://travis-ci.org/onnimonni/redis-nginx-module.svg?branch=master)](https://travis-ci.org/onnimonni/redis-nginx-module)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis-nginx-module?ref=badge_shield)
 
 Table of Contents
 =================
@@ -407,3 +408,7 @@ See Also
 * The [OpenResty](http://openresty.org) bundle.
 
 [Back to TOC](#table-of-contents)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis-nginx-module?ref=badge_large)
